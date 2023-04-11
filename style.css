@@ -16,8 +16,7 @@ Version: 1
 
 .navbar{
     font-size: 0.8em;
-    font-weight: bold;
-    letter-spacing: -2px;
+    
 }
 
 .orange{
@@ -132,4 +131,19 @@ footer p{
     color:white;
     font-weight: bold;
     padding:5%;
+}
+.smallpage.bg{
+    width:100%;
+    background:url(images/page_header_bg.jpg);
+    background-size: cover;
+    height: 40vh;
+
+}
+
+.smallpage-title{ 
+    font-size: 4em;
+    color: white;
+    font-weight: 800;
+    margin-top: 9%;
+    padding-bottom: 5%;
 }
